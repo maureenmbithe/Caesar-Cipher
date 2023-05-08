@@ -5,10 +5,10 @@
 import java.util.*;
 
 /*
- * @author Nick Carlson
+ * @author Maureen Mutinda
  */
 
-public class CaesarCipher {
+public class Caesar-Cipher {
 
     //main driver of the program
     public static void main(String[] args) {

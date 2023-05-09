@@ -22,8 +22,7 @@
 ### Java, Markdown, HTML
 
 # Behavior-Driven Development
-### In order for the program to run well and to give the correct output, the code had to meet certain criteria.The user has to select one choice from the list provided. For the answer to be correct the value of the label has to be five.
-
+### In order for the program to run well and to give the correct output, the code had to meet certain criteria.The user has to select one choice from the list provided. 
 # Support and contact details
 ### In case of any questions or queries kindly contact me on maureenmbithe6@gmail.com
 

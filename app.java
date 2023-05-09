@@ -36,7 +36,7 @@ public class Caesar-Cipher {
             System.out.println("Your input does not meet the criteria stated above.");
             System.exit(0);
         }else if(message.equals("")){
-            System.out.println("You didn't enter anything.");
+            System.out.println("You did not enter anything.");
             System.exit(0);
         }
 
